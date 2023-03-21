@@ -13,6 +13,11 @@
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
+<h2>THE HERO IMAGE</h2>
+<p>He is the one and only king of the room</p>
+
+<img src="‪C:\Users\kloke\Desktop\purna.jpg" width="400" height="350">
+	
 	<h1><h3> Server Side IP Address </h3><br>
 
 <% 
