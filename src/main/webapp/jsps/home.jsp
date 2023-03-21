@@ -16,7 +16,7 @@
 <h2>THE HERO IMAGE</h2>
 <p>He is the one and only king of the room</p>
 
-<img src="‪Desktop\purna.jpg" alt="" width="400" height="350">
+<img src="‪‪C:\Users\kloke\Desktop\purna.jpg" alt="" width="100" height="150">
 	
 	<h1><h3> Server Side IP Address </h3><br>
 
