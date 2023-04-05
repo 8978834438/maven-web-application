@@ -12,6 +12,7 @@
 <h1 align="center">Welcome to Mithun Technologies Private Limited. Bengaluru,Karnataka,India </h1>
 	<h1 alaign="center">We are learning devops for better future</h1>
 	<h1 alaign="center">Definitly we going to get the job on devops</h1>
+	<h1 alaign="center">Welcome to devops training centre</h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
