@@ -23,8 +23,8 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>https://sonarcloud.io/</sonar.host.url>
 		<sonar.login>bdca268c884da4259edd40b1158ed1be82c9d5b3</sonar.login>
-		<sonar.organization>lokeshtechnonewweb</sonar.organization>
-		<sonar.projectKey>lokeshtechnokeynew_web</sonar.projectKey>
+		<sonar.organization>bodireddynaveen</sonar.organization>
+		<sonar.projectKey>bodireddynaveen_b</sonar.projectKey>
 		<sonar.moduleKey>${project.groupId}:${project.artifactId}</sonar.moduleKey>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.7.39:8081/repository/Facebook_Release/</url>
+	      <url>http://13.233.151.223:8081/repository/Facebook_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://65.0.7.39:8081/repository/Facebook_Snapshot/</url>
+	      <url>http://13.233.151.223:8081/repository/Facebook_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
